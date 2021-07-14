@@ -1,5 +1,5 @@
 ## howdy 👋
-my name is erza ("er-suh") and in my spare time i program stuff for you to enjoy 
+my name is ezra ("es-ra") and in my spare time i program stuff for you to enjoy 
 
 ### about me ✨
 - my pronouns are **they/them**
