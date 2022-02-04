@@ -6,4 +6,4 @@ my name is aria ("ar-ee-uh") and in my spare time i program stuff for you to enj
 - i primarily work in **node** to do **reverse engineering** and other stuff like that
 - i want to learn **python** at some point as well as **c++**
 ### contact 📫
-you can currently contact me on matrix (``@nintendowii:matrix.org``) or discord (``@tacohitbox#7981``)
+you can currently contact me on matrix (``@aria:catgirl.cloud``) or discord (``@tacohitbox#7981``)
